@@ -1,7 +1,5 @@
 
 <a name="readme-top"></a>
-<!-- PROJECT SHIELDS -->
-[![MIT License][license-shield]][license-url]
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -89,6 +87,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Arduino-url]: https://www.arduino.cc/en/software
 [InfluxDB]: https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white
 [Influx-url]: https://vuejs.org/
-[Digital Ocean]: https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white
+[Digital Ocean]: https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white
 [Digital-url]: https://www.digitalocean.com/
 
