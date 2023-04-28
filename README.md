@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kendrajmoore/ardunio_plants/edit/main/README.md">
-    <img src="https://i.ibb.co/QrYYD8y/plant-emoji.jpg" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/QP2QXhB/Pngtree-cute-green-small-plant-aloe-4651505.png" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">IoT Plant Monitoring System</h3>
