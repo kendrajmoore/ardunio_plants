@@ -17,7 +17,7 @@
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://nodereddash.smartplant.live/ui">View Demo</a>
   </p>
 </div>
 
@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/zbSTMhQ/Screenshot-2023-04-28-at-10-25-52-AM.png)
 
 Plant monitoring has become an increasingly prominent environmental measurement in climate change, water resource forecasting, land stability, and crop management. Current technologies in soil monitoring are used to help farmers understand their plant health and make decisions about how to care for their crops. These existing technologies, however, rely on proprietary sensors and lack the ability to onboard or customize new types of sensors. The platform will offer (1) seamless sensor integration, (2) storage of time series data, (3) monitoring and visualizations on live data. 
 
