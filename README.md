@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/kendrajmoore/ardunio_plants/edit/main/README.md">
+    <img src="https://i.ibb.co/QrYYD8y/plant-emoji.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">IoT Plant Monitoring System</h3>
