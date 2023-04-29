@@ -78,7 +78,7 @@ Plant monitoring has become an increasingly prominent environmental measurement 
 ### Prerequisites
 
 To get started with the project git clone the repo
-* npm
+* 
   ```sh
   git clone https://github.com/kendrajmoore/ardunio_plants.git
   ```
