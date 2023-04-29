@@ -12,7 +12,7 @@
   <p align="center">
     An IoT Plant Monitoring System that allows you to review your plants health stats from anywhere in the world using an ESP32!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://kendrajmoore.github.io/ardunio_plants"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://nodereddash.smartplant.live/ui">View Demo</a>
@@ -31,7 +31,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
