@@ -77,11 +77,18 @@ Plant monitoring has become an increasingly prominent environmental measurement 
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To get started with the project git clone the repo
 * npm
   ```sh
-  npm install npm@latest -g
+  git clone https://github.com/kendrajmoore/ardunio_plants.git
   ```
+
+Download Arduino IDE and connect your ESP32 to your computer
+
+Upload the code into the IDE, replace the placeholder text with your SSID, wifi password
+
+Compile and upload the code to your ESP32
+
 
 ### Installation
 
@@ -108,10 +115,7 @@ To complete the hardware component of this project you need
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+You can use this tool to monitor your plants' temperature, humidity, and soil moisture on your computer or phone.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -126,19 +130,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Random Nerd Tutorials](https://randomnerdtutorials.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
