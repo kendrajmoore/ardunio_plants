@@ -105,9 +105,6 @@ To complete the hardware component of this project you need
 [![Wiring Diagram][wiring]]()
 
 
-
-   ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
