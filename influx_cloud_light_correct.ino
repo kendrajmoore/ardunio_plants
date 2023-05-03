@@ -28,11 +28,6 @@ DHT dht_sensor(DHT_SENSOR_PIN, DHT_SENSOR_TYPE);
 #define MQTT_PUB_HUM MQTT_TOPIC_TWO  
 #define MQTT_PUB_SOIL MQTT_TOPIC_THREE
 
-// Numbers to Calibrate Soil Tool 
-int wet = 239;
-int dry = 595;
-
-
 AsyncMqttClient mqttClient;
 TimerHandle_t mqttReconnectTimer;
 TimerHandle_t wifiReconnectTimer;
@@ -139,16 +134,11 @@ void setup() {
 }
 
 void loop() {
-  sensor.clearFields();
   float humi  = dht_sensor.readHumidity();
   //remove true to get temperature in Celsuis
   float f = dht_sensor.readTemperature(true);
   int soil_num = analogRead(A0);
   int soil = map(soil_num, wet, dry, 100, 0);
-  sensor.addField("rssi", WiFi.RSSI());
-  sensor.addField("temp", f);
-  sensor.addField("humi", humi);
-  sensor.addField("soil", soil);
   if ( isnan(humi)) {
     Serial.println("Failed to read from DHT sensor!");
   } else {
